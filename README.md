@@ -1,4 +1,8 @@
 # Hospital-Emergency-Room-Dashboard
+
+## Dashboard overview
+![Dasboard](dashboard-overview.png)
+
 Project overview:
 
 This project focuses on analyzing emergency room patient data to monitor hospital performance , patient flow , and service efficiency. This dashboard helps identify waiting time trends , patient demographics, admission patterns , and department referrals.
