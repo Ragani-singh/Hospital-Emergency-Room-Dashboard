@@ -1,7 +1,7 @@
 # Hospital-Emergency-Room-Dashboard
 
 ## Dashboard overview
-![Dasboard](dashboard-overview.png)
+![Dashboard](dashboard-overview.png)
 
 Project overview:
 
